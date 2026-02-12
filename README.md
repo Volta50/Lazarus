@@ -1,6 +1,4 @@
-# Lazarus
-Learning pal
-
+# Lazarus - Learning pal
 Using google's local ML the dictionary is able to translate any word and display the corresponding phonetics and meaning.
 The project was developed using Android Studio, gemini 3 pro and google antigravity.
 Android offline dictionary/translator in 4 languages
